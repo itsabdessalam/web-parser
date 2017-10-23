@@ -1,0 +1,10 @@
+/home/abdessalam/Documents/WebParser/bin/Debug/netcoreapp2.0/WebParser.deps.json
+/home/abdessalam/Documents/WebParser/bin/Debug/netcoreapp2.0/WebParser.runtimeconfig.json
+/home/abdessalam/Documents/WebParser/bin/Debug/netcoreapp2.0/WebParser.runtimeconfig.dev.json
+/home/abdessalam/Documents/WebParser/bin/Debug/netcoreapp2.0/WebParser.dll
+/home/abdessalam/Documents/WebParser/bin/Debug/netcoreapp2.0/WebParser.pdb
+/home/abdessalam/Documents/WebParser/obj/Debug/netcoreapp2.0/WebParser.csproj.CoreCompileInputs.cache
+/home/abdessalam/Documents/WebParser/obj/Debug/netcoreapp2.0/WebParser.AssemblyInfoInputs.cache
+/home/abdessalam/Documents/WebParser/obj/Debug/netcoreapp2.0/WebParser.AssemblyInfo.cs
+/home/abdessalam/Documents/WebParser/obj/Debug/netcoreapp2.0/WebParser.dll
+/home/abdessalam/Documents/WebParser/obj/Debug/netcoreapp2.0/WebParser.pdb
